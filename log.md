@@ -1,13 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: June 22, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished the [Codelabs -> Responsive design](https://codelabs.developers.google.com/codelabs/pwa-responsive-design/index.html?index=..%2F..dev-pwa-training#0), finished 2 Hackerrank problems, updated my [Cycle Heaven]() project's CSS from pixels to 'rems', and updated it to use 'flex' shortcut where necessary.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I am satisfied with myself today, especially with how fast I solved the 2 Hackerrank problems
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:**
+1. HackerRank challenge [ransom note](https://github.com/RomanBogatikov/Hackerrank_challenges/blob/master/ransom_note.js) from 'Dictionaries and hashmaps section'
+2. HackerRank challenge [two strings](https://github.com/RomanBogatikov/Hackerrank_challenges/blob/master/two_strings.js) from 'Dictionaries and hashmaps section'
+3. [Cycle Heaven](https://github.com/RomanBogatikov/cycle_heaven_app_client)
+
+
+
+
+<!--
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
@@ -27,4 +34,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
