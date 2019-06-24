@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 2: June 23, 2019
+
+**Today's Progress**: Finished [Codelab -> Offline quickstart](https://codelabs.developers.google.com/codelabs/pwa-offline-quickstart/index.html?index=..%2F..dev-pwa-training#0) and [Codelab -> Scripting the service worker](https://codelabs.developers.google.com/codelabs/pwa-scripting-the-service-worker/index.html?index=..%2F..dev-pwa-training#0), finished 4 Hackerrank problems
+
+**Thoughts:** I am satisfied with myself today, was somewhat confused by Service Workers. Will try to read more about them tomorrow and introduce them in one of my previous projects
+
+**Link to work:**
+1. HackerRank challenge [alternating characters](https://github.com/RomanBogatikov/Hackerrank_challenges/blob/master/alternating_characters.js) from 'String Manipulation section'
+2. HackerRank challenge [bubble sort](https://github.com/RomanBogatikov/Hackerrank_challenges/commit/8aaf225b8771c21f2546a9ca1d0e1c069d1c14e8) from 'Sorting section'
+3. HackerRank challenge [making anagrams](https://github.com/RomanBogatikov/Hackerrank_challenges/commit/bdd2e2a8cdebc6b3181b34a74615819846d3a7cf) from 'String Manipulation section'
+4. HackerRank challenge [Mark and toys](https://github.com/RomanBogatikov/Hackerrank_challenges/commit/125546d1fe7e0c7314dd19d8de24a9c9d9db996f) from 'Sorting section'
+
 ### Day 1: June 22, 2019
 
 **Today's Progress**: Finished the [Codelabs -> Responsive design](https://codelabs.developers.google.com/codelabs/pwa-responsive-design/index.html?index=..%2F..dev-pwa-training#0), finished 2 Hackerrank problems, updated my [Cycle Heaven]() project's CSS from pixels to 'rems', and updated it to use 'flex' shortcut where necessary.
@@ -10,6 +22,8 @@
 1. HackerRank challenge [ransom note](https://github.com/RomanBogatikov/Hackerrank_challenges/blob/master/ransom_note.js) from 'Dictionaries and hashmaps section'
 2. HackerRank challenge [two strings](https://github.com/RomanBogatikov/Hackerrank_challenges/blob/master/two_strings.js) from 'Dictionaries and hashmaps section'
 3. [Cycle Heaven](https://github.com/RomanBogatikov/cycle_heaven_app_client)
+
+
 
 
 
