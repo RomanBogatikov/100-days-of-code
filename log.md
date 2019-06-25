@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 3: June 24, 2019
+
+**Today's Progress**: finished 4 Hackerrank problems from Linked Lists section
+
+**Thoughts:** Hackerrank challenges took more time than expected, basically my whole day. But I managed to also redeploy my [Farm Game](https://github.com/RomanBogatikov/farm_game) personal project to Heroku (insted of Github pages) to be able to try to supplement it with a Service Worker.
+
+**Link to work:**
+1. HackerRank challenge [find merge point of two lists](https://github.com/RomanBogatikov/Hackerrank_challenges/commit/4eae99a3a11ea636a50dc3cdcd6273492e29cd2b) from 'Linked Lists section'
+2. HackerRank challenge [insert a nodde at a specific position in a linked list](https://github.com/RomanBogatikov/Hackerrank_challenges/commit/fa4e19340e0bd65c51def5f7f7411cd1fad8e0c7) from 'Linked Lists section'
+3. HackerRank challenge [insert a node into a sorted doubly linked list](https://github.com/RomanBogatikov/Hackerrank_challenges/commit/10c30d43570340d65b85b13132714a39f717b688) from 'Linked Lists section'
+4. HackerRank challenge [reverse a doubly linked list](https://github.com/RomanBogatikov/Hackerrank_challenges/commit/0367f1cbe959ad47e996e6691652cfb8d936c8c7) from 'Linked Lists section'
+
 ### Day 2: June 23, 2019
 
 **Today's Progress**: Finished [Codelab -> Offline quickstart](https://codelabs.developers.google.com/codelabs/pwa-offline-quickstart/index.html?index=..%2F..dev-pwa-training#0) and [Codelab -> Scripting the service worker](https://codelabs.developers.google.com/codelabs/pwa-scripting-the-service-worker/index.html?index=..%2F..dev-pwa-training#0), finished 4 Hackerrank problems
