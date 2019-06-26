@@ -1,10 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 4: June 25, 2019
+
+**Today's Progress**: Spent all day working on a project for a potential employer
+
+**Thoughts:**
+Learned about React PureComponent to prevent re-rendering, refreshed my Express and MongoDB knowledge. Have to spend some time to figure out how to incorporate server-side code into create react app and what are pros and cons.
+
+**Link to work:**
+[CarSellerApp](https://github.com/RomanBogatikov/car_seller_app_client)
+
 ### Day 3: June 24, 2019
 
 **Today's Progress**: finished 4 Hackerrank problems from Linked Lists section
 
-**Thoughts:** Hackerrank challenges took more time than expected, basically my whole day. But I managed to also redeploy my [Farm Game](https://github.com/RomanBogatikov/farm_game) personal project to Heroku (insted of Github pages) to be able to try to supplement it with a Service Worker.
+**Thoughts:** Hackerrank challenges took more time than expected, basically my whole day. But I managed to also redeploy my [Farm Game](https://github.com/RomanBogatikov/farm_game) personal project to Heroku (instead of Github pages) to be able to try to supplement it with a Service Worker.
 
 **Link to work:**
 1. HackerRank challenge [find merge point of two lists](https://github.com/RomanBogatikov/Hackerrank_challenges/commit/4eae99a3a11ea636a50dc3cdcd6273492e29cd2b) from 'Linked Lists section'
