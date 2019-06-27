@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: June 26, 2019
+
+**Today's Progress**: Spent about 4 hours on Hackerrank intermediate challenge and about 3 hours trying to understand how to deploy Create-React-App with ExpressJS and MongoDB using proxy, but neither worked
+
+**Thoughts:**
+I spent a lot of time today on both Hackerrank challenge and deployment, but my Hackerrank solution is not optimal (it is correct, at least) and doesn't get all the points due to timeout. And I still don't understand how to deploy my CRA with proxy... Well I just need to spend more time on this.
+
+**Link to work:**
+[Count Triplets challenge](https://github.com/RomanBogatikov/Hackerrank_challenges/commit/cfbb782ef47534fbe0dadcdad3fc46bfc55d6a7e)
+some attempts to deploy: [carreseller_proxy](https://github.com/RomanBogatikov/carreseller-proxy)
+
 ### Day 4: June 25, 2019
 
 **Today's Progress**: Spent all day working on a project for a potential employer
