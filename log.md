@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 6: June 27, 2019
+
+**Today's Progress**: Spent some time trying to deploy the project I did yesterday, but it didn't work. Also spent some time playing around with form validation using foundation
+
+**Thoughts:**
+I didn't spent as much time coding as I wanted today. I might set aside deploying the project, because I spend too much time on it. I'd better continue my Google Mobile Web Specialist certification courses, spend more time with CSS and start learning React Native.
+
+**Link to work:**
+some attempts to deploy: [carreseller_proxy](https://github.com/RomanBogatikov/carreseller-proxy)
+
 ### Day 5: June 26, 2019
 
 **Today's Progress**: Spent about 4 hours on Hackerrank intermediate challenge and about 3 hours trying to understand how to deploy Create-React-App with ExpressJS and MongoDB using proxy, but neither worked
