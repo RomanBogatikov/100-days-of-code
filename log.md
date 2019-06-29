@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 7: June 27, 2019
+
+**Today's Progress**: I literally spent 1 hour today updating my previous Cycle Heaven project. I used shouldComponentUpdate to avoin unnecessary rerendering. I couldn't use PureComponent because there were two properties in the state, and one of them was changing (to display loading ring). So shallow comparison that PureComponent uses always rerendered it.
+
+**Thoughts:**
+I spent almost my whole day with my son playing on the beach. I still dedicated 1 hour to build something new. I shouldn't feel bad about not spending enough time coding today, my son also wants my attention.
+
+**Link to work:**
+[Cycle Heaven](https://github.com/RomanBogatikov/cycle_heaven_app_client)
+
 ### Day 6: June 27, 2019
 
 **Today's Progress**: Spent some time trying to deploy the project I did yesterday, but it didn't work. Also spent some time playing around with form validation using foundation
