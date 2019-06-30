@@ -1,8 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 7: June 27, 2019
+### Day 8: June 28, 2019
 
-**Today's Progress**: I literally spent 1 hour today updating my previous Cycle Heaven project. I used shouldComponentUpdate to avoin unnecessary rerendering. I couldn't use PureComponent because there were two properties in the state, and one of them was changing (to display loading ring). So shallow comparison that PureComponent uses always rerendered it.
+**Today's Progress**: I have finally deployed my CarReseller project to Heroku using Node.js server proxy and was able to seed cars in the database. Everything works!
+
+**Thoughts:**
+Though I feel like it took me too long to set up server proxy and make the database work, I still accomplished this. I still feel I will struggle when I build my next project using proxy, but I will definitely struggle less.
+
+**Link to work:**
+[CarReseller-proxy](https://github.com/RomanBogatikov/carreseller-proxy)
+
+### Day 7: June 28, 2019
+
+**Today's Progress**: I literally spent 1 hour today updating my previous Cycle Heaven project. I used shouldComponentUpdate to avoid unnecessary rerendering. I couldn't use PureComponent because there were two properties in the state, and one of them was changing (to display loading ring). So shallow comparison that PureComponent uses always rerendered it.
 
 **Thoughts:**
 I spent almost my whole day with my son playing on the beach. I still dedicated 1 hour to build something new. I shouldn't feel bad about not spending enough time coding today, my son also wants my attention.
