@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 8: June 28, 2019
+### Day 9: June 30, 2019
+
+**Today's Progress**: I investigated the concept of tracking pixels and how they work, wrote a function that determines if the tracking pixel is visible on the viewport (it was part of an application for a job). I also finished 2 out of 3 chapters in the Geddski & Google Developers "Service Workies" game.
+
+**Thoughts:**
+I feel like I don't have enough time to learn what I have planned to learn (prepare for Google Mobile Web Specialist certification, learn React Native, study CS basics, improve my CSS). Medium-level challenges from Hackerrank take a lot of time and I can't always find the best solution and some test cases timeout, that means my algorithm is not good enough, though correct. Anyway, I enjoy web development and dedicate time to studying it, and I am getting better.
+
+**Link to work:**
+
+[Service Workies Game](https://serviceworkies.com/)
+[tracking pixel](https://github.com/RomanBogatikov/tracking_pixel) answers to some questions and some code
+
+### Day 8: June 29, 2019
 
 **Today's Progress**: I have finally deployed my CarReseller project to Heroku using Node.js server proxy and was able to seed cars in the database. Everything works!
 
