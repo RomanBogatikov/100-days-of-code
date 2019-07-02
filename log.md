@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 10: July 1, 2019
+
+**Today's Progress**: I spent a lot of tyme reading You Don't Know Javascript series (Chapter 5. Grammar - from Types And Grammar book), revising what I learnt yesterday about Service Workers and studying some more. I coded along the way and thought about how I can use Service Worker inside some of the apps I had already built.
+
+**Thoughts:**
+It was quite a productive day, though I didn't work a lot on my projects.
+
+**Link to work:**
+
 ### Day 9: June 30, 2019
 
 **Today's Progress**: I investigated the concept of tracking pixels and how they work, wrote a function that determines if the tracking pixel is visible on the viewport (it was part of an application for a job). I also finished 2 out of 3 chapters in the Geddski & Google Developers "Service Workies" game.
