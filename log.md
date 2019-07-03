@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 11: July 2, 2019
+
+**Today's Progress**: I finished the 'Service Workies' game today. I added code to register service worker to my Farm Game project, and I am able to put and retrieve data from cache storage.
+
+**Thoughts:**
+I like when my code works :)
+
+**Link to work:**
+[Farm Game](https://github.com/RomanBogatikov/farm_game)
+
 ### Day 10: July 1, 2019
 
 **Today's Progress**: I spent a lot of tyme reading You Don't Know Javascript series (Chapter 5. Grammar - from Types And Grammar book), revising what I learnt yesterday about Service Workers and studying some more. I coded along the way and thought about how I can use Service Worker inside some of the apps I had already built.
