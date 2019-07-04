@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 12: July 3, 2019
+
+**Today's Progress**: Watched CS50's React Native lectures and added some CSS to my CarSeller project (struggled a lot with CSS and wasn't able to implement what I wanted). I went camping with my family today but still managed to spend time to code (and find a spot with Wi-Fi).
+
+**Thoughts:**
+I definitely need to spend more time polishing my CSS skills.
+
+**Link to work:**
+[CarReseller-proxy](https://github.com/RomanBogatikov/carreseller-proxy)
+
 ### Day 11: July 2, 2019
 
 **Today's Progress**: I finished the 'Service Workies' game today. I added code to register service worker to my Farm Game project, and I am able to put and retrieve data from cache storage.
