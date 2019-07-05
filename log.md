@@ -2,7 +2,7 @@
 
 ### Day 13: July 4, 2019
 
-**Today's Progress**: I'm on a camping trip and have no wi-fi. I managed to style the image that I couldn't do yesterday.
+**Today's Progress**: I didn't push my commits to github because  I'm on a camping trip and have no wi-fi. But I still coded and managed to style the image that I couldn't do yesterday.
 
 **Thoughts:**
 I am happy that without googling I still was able to style the image the way I wanted.
