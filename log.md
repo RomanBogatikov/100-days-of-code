@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 13: July 4, 2019
+
+**Today's Progress**: I'm on a camping trip and have no wi-fi. I managed to style the image that I couldn't do yesterday.
+
+**Thoughts:**
+I am happy that without googling I still was able to style the image the way I wanted.
+
+**Link to work:**
+[CarReseller-proxy](https://github.com/RomanBogatikov/carreseller-proxy)
+
 ### Day 12: July 3, 2019
 
 **Today's Progress**: Watched CS50's React Native lectures and added some CSS to my CarSeller project (struggled a lot with CSS and wasn't able to implement what I wanted). I went camping with my family today but still managed to spend time to code (and find a spot with Wi-Fi).
