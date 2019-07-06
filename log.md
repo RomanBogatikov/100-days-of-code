@@ -1,8 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 14: July 5, 2019
+
+**Today's Progress**: Today I worked on my CarReseller project, cleaned up my code, added code to display a loading ring in the future (now only words 'Loading...' show up)
+
+**Thoughts:**
+I like that feeling that I code daily and keep track of my progress
+
+**Link to work:**
+[CarReseller-proxy](https://github.com/RomanBogatikov/carreseller-proxy)
+
 ### Day 13: July 4, 2019
 
-**Today's Progress**: I didn't push my commits to github because  I'm on a camping trip and have no wi-fi. But I still coded and managed to style the image that I couldn't do yesterday.
+**Today's Progress**: I'm on a camping trip and have no wi-fi. But I still coded and managed to style the image that I couldn't do yesterday.
 
 **Thoughts:**
 I am happy that without googling I still was able to style the image the way I wanted.
