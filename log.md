@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 15: July 6, 2019
+
+**Today's Progress**: Brushed up my CarReseller project (added loading ring, optimized code, added some components). I also finished Google tutorials on Promises and Fetch API).
+
+**Thoughts:**
+I need to dedicate a bit more time to CS fundamentals (Algorithms and Data Structures)
+
+**Link to work:**
+[CarReseller-proxy](https://github.com/RomanBogatikov/carreseller-proxy)
+
 ### Day 14: July 5, 2019
 
 **Today's Progress**: Today I worked on my CarReseller project, cleaned up my code, added code to display a loading ring in the future (now only words 'Loading...' show up)
