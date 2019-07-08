@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 16: July 7, 2019
+
+**Today's Progress**: Today I read SASS and React Styled Components documentation. I styled one of components in my CarReseller with styled components. I also read about CORS.
+
+**Thoughts:**
+I took a quiz mentioned in frontendmasters today [JavaScript Web Quiz](http://davidshariff.com/js-quiz/) and my score was well above average, though I feel that I could have done better. I am also happy that I am on day 16 already and haven't missed a single day, and I really enjoy the process.
+
+**Link to work:**
+[CarReseller-proxy](https://github.com/RomanBogatikov/carreseller-proxy)
+
 ### Day 15: July 6, 2019
 
 **Today's Progress**: Brushed up my CarReseller project (added loading ring, optimized code, added some components). I also finished Google tutorials on Promises and Fetch API).
