@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 17: July 8, 2019
+
+**Today's Progress**: I continued reading Styled-Components documentation and styled the rest of the components from my CarReseller project with styled-components. I still need to get my @keyframes animations working.
+
+**Thoughts:**
+I ran into one interesting moment when I was reading styled-components documentation: state in one of the classes was defined without constructor. That's why I had to read again about classes in JavaScript and static methods (along with 'static' keyword).
+
+**Link to work:**
+[CarReseller-proxy](https://github.com/RomanBogatikov/carreseller-proxy)
+
 ### Day 16: July 7, 2019
 
 **Today's Progress**: Today I read SASS and React Styled Components documentation. I styled one of components in my CarReseller with styled components. I also read about CORS.
