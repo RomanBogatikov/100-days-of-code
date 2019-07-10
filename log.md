@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 18: July 9, 2019
+
+**Today's Progress**: Animated couple of components in my CarReseller project using styled-components and @keyframes, but couldn't animate a LoadinRing's 'circle' for some reason
+
+**Thoughts:**
+That was a little frustrating that I spent quite a bit of time on @keyframes animations in styled-components and couldn't make one of them work
+
+**Link to work:**
+[CarReseller-proxy](https://github.com/RomanBogatikov/carreseller-proxy)
+
 ### Day 17: July 8, 2019
 
 **Today's Progress**: I continued reading Styled-Components documentation and styled the rest of the components from my CarReseller project with styled-components. I still need to get my @keyframes animations working.
