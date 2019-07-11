@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 19: July 10, 2019
+
+**Today's Progress**: Read "You Don't Know JavaScript", chapter on Generators. I spent time trying to style Loading Ring with Styled-Components in my CarReseller project, but I just couldn't do it, it works with regular CSS, but not with Styled-Components.
+
+**Thoughts:**
+I understand the basics of generators, but not sure how to use them in real life.
+
+**Link to work:**
+[CarReseller-proxy](https://github.com/RomanBogatikov/carreseller-proxy)
+
 ### Day 18: July 9, 2019
 
 **Today's Progress**: Animated couple of components in my CarReseller project using styled-components and @keyframes, but couldn't animate a LoadinRing's 'circle' for some reason
