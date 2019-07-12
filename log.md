@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 20: July 11, 2019
+
+**Today's Progress**: I tried to style a circle with styled-components for the second day in a row, but I just can't do it for some reason.
+
+**Thoughts:**
+It is frustrating that I got stuck on such a small issue. I will set CarReseller project aside for a while.
+
+**Link to work:**
+link stays the same as for Day 19 because I had no progress
+
 ### Day 19: July 10, 2019
 
 **Today's Progress**: Read "You Don't Know JavaScript", chapter on Generators. I spent time trying to style Loading Ring with Styled-Components in my CarReseller project, but I just couldn't do it, it works with regular CSS, but not with Styled-Components.
