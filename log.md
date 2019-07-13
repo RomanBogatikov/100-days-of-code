@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 21: July 12, 2019
+
+**Today's Progress**: I read REACT documentation instead of working on any of my projects. I just want to understand deeper the advanced concepts and don't know yet how to use them in my projects.
+
+**Thoughts:**
+It seems like I will have to concentrate solely on REACT and CSS in the nearest future, it will become more clear in a couple of days.
+
+**Link to work:**
+
+
 ### Day 20: July 11, 2019
 
 **Today's Progress**: I tried to style a circle with styled-components for the second day in a row, but I just can't do it for some reason.
