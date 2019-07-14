@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 22: July 13, 2019
+
+**Today's Progress**: Read REACT documentation and added media query to my Cycle Heaven project
+
+**Thoughts:**
+Just have to keep coding every day and get better.
+
+**Link to work:**
+[Cycle Heaven](https://github.com/RomanBogatikov/cycle_heaven_app_client)
+
 ### Day 21: July 12, 2019
 
 **Today's Progress**: I read REACT documentation instead of working on any of my projects. I just want to understand deeper the advanced concepts and don't know yet how to use them in my projects.
