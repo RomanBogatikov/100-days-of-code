@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 23: July 15, 2019
+
+**Today's Progress**: fixed a bug in in the Cycle Heaven App navbar (highlight the right route)
+
+**Thoughts:**
+Missed a couple of days of coding, but will not get stressed about it as I often do and will just keep coding
+
+**Link to work:**
+[Cycle Heaven](https://github.com/RomanBogatikov/cycle_heaven_app_client)
+
 ### Day 22: July 13, 2019
 
 **Today's Progress**: Read REACT documentation and added media query to my Cycle Heaven project
